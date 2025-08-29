@@ -1,4 +1,4 @@
-# ME API Playground — Assignment
+# ME API Playground 
 
 ---
 
